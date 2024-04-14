@@ -192,6 +192,7 @@
     height: 80px;
     width: 100%;
     background-color: rgb(252, 252, 252);
+    position: sticky;
     
 }
 .c1{
@@ -254,6 +255,7 @@
         height: 50px;
         width: 100%;
         background-color: rgb(47, 83, 22);
+        position: sticky;
     }
     .c1{
         height: 70px;
@@ -318,7 +320,7 @@
         height: 50px;
         width: 100%;
         background-color: rgb(209, 196, 12);
-        position: relative;
+        position: sticky;
     }
     .c1{
         height: 70px;
@@ -622,4 +624,93 @@
         top: 100%;
         font-size: 70%;
     }
+}
+.F{
+    height: 201px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.F img{
+    height: 201px;
+    width: 100%;
+    background-color: blueviolet;
+    object-fit: cover;
+}
+@media screen and (min-width:768px) and (max-width:998px){
+    .F{
+        height: 110px;
+        width: 100%;
+        background-color: blueviolet;
+    } 
+    .F img{
+        height: 110px;
+        width: 100%;
+        background-color: blueviolet;
+        object-fit: cover;
+    }
+}
+@media screen and (min-width:200px) and (max-width:768px){
+    .F{
+        height: 70px;
+        width: 100%;
+        background-color: blueviolet;
+    } 
+    .F img{
+        height: 70px;
+        width: 100%;
+        
+        object-fit: cover;
+    }
+}
+.G{
+    height: 100px;
+    width: 100%;
+    
+}
+.G img{
+    height: 100px;
+    width: 100%;
+    object-fit: cover;
+}
+@media screen and (min-width:768px) and (max-width:998px){
+    .G{
+        height: 70px;
+        width: 100%;
+        
+    }
+    .G img{
+        height: 70px;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+@media screen and (min-width:200px) and (max-width:768px){
+    .G{
+        height: 40px;
+        width: 100%;
+        
+    }
+    .G img{
+        height: 40px;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+.H{
+    height: 250px;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+}
+#H1{
+    font-size: 200%;
+    color: blueviolet;
+    font-weight: 700;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+}
+#H2{
+    font-size: 120%;
+    text-align: center;
 }
