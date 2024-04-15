@@ -10,7 +10,30 @@
 #a1{
     text-align: center;
     color: white;
+    animation-name: childanimation;
+    animation-duration: 15s;
+    position: absolute;
+    animation-timing-function:ease-in-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
 }
+@keyframes childanimation {
+    /* from{ background-color: aquamarine;}
+    to{background-color: orangered;} */
+    0%{top: 0;left: 0;}
+    /* 10%{left: 130px;}
+    20%{top: 0;left: 230px;}
+    30%{top: 0;left: 330px;}
+    40%{top: 0;left: 430px;}
+    50%{top: 0;left: 530px;}
+    60%{top: 0;left: 630px;}
+    70%{top: 0;left: 730px;} */
+    80%{top: 0;left: 830px;}
+    90%{ color:rgb(3, 39, 61);top: 0;left: 930px;}
+    100%{ color:rgb(3, 39, 61);top: 0;left: 1350px;}
+}
+
 @media screen and (min-width:768px) and (max-width:998px){
     .a{
         height: 40px;
@@ -699,18 +722,86 @@
 .H{
     height: 250px;
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     position: relative;
 }
 #H1{
     font-size: 200%;
-    color: blueviolet;
+    color: rgb(64, 7, 117);
     font-weight: 700;
     text-align: center;
     position: absolute;
-    top: 10%;
+    top: 35%;
+    left: 28%;
 }
 #H2{
-    font-size: 120%;
+    position: absolute;
+    font-size: 110%;
     text-align: center;
+    top: 55%;
+    left: 32%;
+    color: rgb(64, 7, 117);
+} 
+@media screen and (min-width:768px) and (max-width:998px){
+    .H{
+        height: 200px;
+        width: 100%;
+        background-color: rgb(0, 255, 60);
+        position: relative;
+    }
+    #H1{
+        font-size: 150%;
+        color: blueviolet;
+        font-weight: 700;
+        text-align: center;
+        position: absolute;
+        top: 20%;
+        left: 15%;
+    }
+    #H2{
+        position: absolute;
+        font-size: 80%;
+        text-align: center;
+        top: 40%;
+        left: 21%;
+    } 
 }
+@media screen and (min-width:200px) and (max-width:768px){
+    .H{
+        height: 100px;
+        width: 100%;
+        background-color: rgb(255, 0, 140);
+        position: relative;
+    }
+    #H1{
+        font-size: 100%;
+        color: blueviolet;
+        font-weight: 700;
+        text-align: center;
+        position: absolute;
+        top: 20%;
+        left: 15%;
+    }
+    #H2{
+        position: absolute;
+        font-size: 46%;
+        text-align: center;
+        top: 50%;
+        left: 26%;
+    } 
+}
+/* .I{
+    height: 400PX;
+    width: 100%;
+    background-color: aquamarine;
+    position: relative;
+    overflow-x: scroll;
+
+}
+.J{
+    height: 400PX;
+    width: 100%;
+    background-color: rgb(153, 211, 16);
+    position: relative;
+
+} */
