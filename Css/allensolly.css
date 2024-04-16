@@ -63,45 +63,71 @@
     width: 100%;
     background-color: rgb(17, 17, 16);
 }
-
 .b2{
     position: absolute;
     left: 57%;
     color: rgb(253, 253, 253);
+    top: 7%;
+}
+.b2 img{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
 }
 .b3{
     position: absolute;
     left: 67%;
     color: rgb(255, 255, 255);
+    top: 7%;
+}
+.b3 img{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
 }
 .b4{
     position: absolute;
     left: 77%;
     color: rgb(255, 255, 255);
+    top: 7%;
 }
 .b4 img{
-    height: 50px;
-    width: 50px;
+    height: 35px;
+    width: 35px;
     object-fit: cover;
 }
 .b5{
     position: absolute;
     left: 85%; 
+    top: 7%;
+}
+.b5 img{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
 }
 .b6{
     position: absolute;
     left: 90%; 
+    top: 7%;
+}
+.b6 img{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
 }
 .b7{
     position: absolute;
-    left: 
-    95%;
+    left: 95%;
+    top: 7%;
 }
 .b7 img{
-    height: 50px;
-    width: 50px;
+    height: 35px;
+    width: 35px;
     object-fit: cover;
 }
+
+
 @media screen and (min-width:768px) and (max-width:998px){
  
     .b2{
@@ -109,10 +135,20 @@
         left: 37%;
         color: rgb(253, 253, 253);
     }
+    .b2 img{
+        height: 30px;
+        width: 30px;
+        object-fit: cover;
+    }
     .b3{
         position: absolute;
         left: 52%;
         color: rgb(255, 255, 255);
+    }
+    .b3 img{
+        height: 30px;
+        width: 30px;
+        object-fit: cover;
     }
     .b4{
         position: absolute;
@@ -120,17 +156,27 @@
         color: rgb(255, 255, 255);
     }
     .b4 img{
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         object-fit: cover;
     }
     .b5{
         position: absolute;
         left: 82%; 
     }
+    .b5 img{
+        height: 30px;
+        width: 30px;
+        object-fit: cover;
+    }
     .b6{
         position: absolute;
         left: 88%; 
+    }
+    .b6 img{
+        height: 30px;
+        width: 30px;
+        object-fit: cover;
     }
     .b7{
         position: absolute;
@@ -138,8 +184,8 @@
         top: 8%;
     }
     .b7 img{
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         object-fit: cover;
     }
 }
@@ -150,64 +196,70 @@
     height: 40px;
     width: 100%;
     background-color: rgb(17, 17, 16);
+    position: absolute;
 }
 
 .b2{
     position: absolute;
     left: 45%;
     color: rgb(253, 253, 253);
+    top: 5%;
 }
 .b2 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 .b3{
     position: absolute;
     left: 58%;
     color: rgb(255, 255, 255);
+    top: 5%;
 }
 .b3 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 .b4{
     position: absolute;
     left: 74%;
     color: rgb(255, 255, 255);
+    top: 5%;
 }
 .b4 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 .b5{
     position: absolute;
     left: 85%; 
+    top: 5%;
 }
 .b5 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 .b6{
     position: absolute;
     left: 90%; 
+    top: 5%;
 }
 .b6 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 .b7{
     position: absolute;
-    left: 
-    95%;
+    left:95%;
+    top: 5%;
 }
 .b7 img{
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
 }
 }
@@ -459,7 +511,7 @@
 .E6{
     position:absolute;
     left: 82%;
-    top: 15%;
+    top: 15%
 }
 #E61{
     position: absolute;
@@ -790,18 +842,327 @@
         left: 26%;
     } 
 }
-/* .I{
-    height: 400PX;
+.I{
+    height: 650PX;
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    overflow-x:scroll;
+    scrollbar-color:white;
     position: relative;
-    overflow-x: scroll;
+   
 
 }
-.J{
-    height: 400PX;
-    width: 100%;
-    background-color: rgb(153, 211, 16);
-    position: relative;
-
+#I1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+    text-align: center;
+    position: sticky;
+}
+.I2{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    background-color: blanchedalmond;
+    left: 2%;
+    top: 10%;
+}
+/* .I2 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
 } */
+.I3{
+    height: 500px;
+    width: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 32%;
+    top: 10%;
+}
+/* .I3 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
+} */
+.I4{
+    height: 500px;
+    width: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 62%;
+    top: 10%;
+}
+/* .I3 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
+} */
+.I5{
+    height: 500px;
+    width: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 92%;
+    top: 10%;
+}
+/* .I3 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
+} */
+.I6{
+    height: 500px;
+    width: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 122%;
+    top: 10%;
+}
+/* .I3 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
+} */
+.I7{
+    height: 500px;
+    width: 400px;
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 152%;
+    top: 10%;
+}
+/* .I3 img{
+    height: 535px;
+    width: 450px;
+    background-color: blanchedalmond;
+} */
+@media screen and (min-width:768px) and (max-width:998px){
+    .I{
+        height: 300PX;
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        overflow-x:scroll;
+        scrollbar-color:white;
+        position: relative;
+        overflow-y: hidden;
+       
+    
+    }
+    #I1{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 130%;
+        text-align: center;
+        position: sticky;
+    }
+    .I2{
+        height: 300px;
+        width: 200px;
+        position: absolute;
+        background-color: blanchedalmond;
+        left: 2%;
+        top: 10%;
+    }
+    .I2 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+    .I3{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 32%;
+        top: 10%;
+    }
+    .I3 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+    .I4{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 62%;
+        top: 10%;
+    }
+    .I4 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+    .I5{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 92%;
+        top: 10%;
+    }
+    .I5 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+    .I6{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 122%;
+        top: 10%;
+    }
+    .I6 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+    .I7{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 152%;
+        top: 10%;
+    }
+    .I7 img{
+        height: 335px;
+        width: 250px;
+        background-color: blanchedalmond;
+    }
+}
+@media screen and (min-width:200px) and (max-width:768px){
+    .I{
+        height: 150PX;
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        overflow-x:scroll;
+        scrollbar-color:white;
+        position: relative;
+        overflow-y: hidden;
+       
+    
+    }
+    #I1{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 60%;
+        text-align: center;
+        position: sticky;
+    }
+    .I2{
+        height: 100px;
+        width: 150px;
+        position: absolute;
+        background-color: blanchedalmond;
+        left: 2%;
+        top: 10%;
+    }
+    .I2 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+    .I3{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 32%;
+        top: 10%;
+    }
+    .I3 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+    .I4{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 62%;
+        top: 10%;
+    }
+    .I4 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+    .I5{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 92%;
+        top: 10%;
+    }
+    .I5 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+    .I6{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 122%;
+        top: 10%;
+    }
+    .I6 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+    .I7{
+        height: 500px;
+        width: 400px;
+        background-color: blanchedalmond;
+        position: absolute;
+        left: 152%;
+        top: 10%;
+    }
+    .I7 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+    }
+}
+.J{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+.J1{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.J2{
+    position: absolute;
+    top: 5%;
+    left: 68%;
+}
+.J2 img{
+    height: 450px;
+    width: 380px;
+    object-fit: cover;
+}
+.J3{
+    height:225px;
+    width: 560px;
+    background-color: rgb(108, 11, 11);
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    border-radius: 8px;
+}
