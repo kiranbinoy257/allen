@@ -190,7 +190,9 @@
     }
 }
 @media screen and (min-width:200px) and (max-width:768px){
-    
+   .bcut{
+    display: none;
+   } 
 
 .b{
     height: 40px;
@@ -1231,5 +1233,1409 @@
         left: 35%;
         top: 30%;
         border-radius: 8px;
+    }
+    #J31{
+        text-align: center;
+         font-size: 150%;
+         font-weight: 500;
+         color: white;
+     }
+     #J32{
+         border-radius: 10%;
+         position: absolute;
+         left: 5%;
+         top: 28%;
+     }
+     #J33{
+         border-radius: 10%;
+         position: absolute;
+         left: 55%;
+         top: 28%;
+     }
+     #J34{
+         border-radius: 10%;
+         position: absolute;
+         top: 57%;
+         left: 5%;
+     }
+     #J35{
+         border-radius: 10%;
+         position: absolute;
+         left:57%;
+         top:59%;
+     }
+}
+@media screen and (min-width:200px) and (max-width:768px){
+    .J{
+        height: 600px;
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        position: relative;
+    }
+    .J1{
+        position: absolute;
+        top: 5%;
+        left: 5%;
+    }
+    .J1 img{
+        height: 200px;
+        width: 200px;
+        object-fit: cover;
+    }
+    .J2{
+        position: absolute;
+        top: 10%;
+        left: 68%;
+    }
+    .J2 img{
+        height: 120px;
+        width: 120px;
+        object-fit: cover;
+    }
+    .J3{
+        height:105px;
+        width: 200px;
+        background-color: rgb(108, 11, 11);
+        position: absolute;
+        left: 35%;
+        top: 15%;
+        border-radius: 8px;
+    }
+    #J31{
+        text-align: center;
+         font-size: 100%;
+         font-weight: 300;
+         color: white;
+     }
+     #J32{
+         border-radius: 10%;
+         position: absolute;
+         left: 5%;
+         top: 28%;
+         font-size: 60%;
+     }
+     #J33{
+         border-radius: 10%;
+         position: absolute;
+         left: 55%;
+         top: 28%;
+         font-size: 60%;
+     }
+     #J34{
+         border-radius: 10%;
+         position: absolute;
+         top: 57%;
+         left: 5%;
+         font-size: 60%;
+     }
+     #J35{
+         border-radius: 10%;
+         position: absolute;
+         left:57%;
+         top:59%;
+         font-size: 60%;
+     }
+}
+.K{
+   height: 1000px;
+   width: 100%;
+   background-color: rgb(16, 16, 68); 
+   position: relative;
+   overflow-x: scroll;
+}
+#K1{
+    color: rgb(211, 198, 11);
+    font-size: 220%;
+    position: sticky;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+#K2{
+    color: rgb(255, 255, 255);
+    font-size: 180;
+    font-weight: 500;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    
+
+}
+#K3{
+    color: rgb(255, 255, 255);
+    font-size: 180;
+    font-weight: 500;
+    position: absolute;
+    top: 15%;
+    left: 45%;
+}
+#K4{
+    color: rgb(255, 255, 255);
+    font-size: 180;
+    font-weight: 500;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+}
+#K5{
+    color: rgb(255, 255, 255);
+    font-size: 180;
+    font-weight: 500;
+    position: absolute;
+    top: 15%;
+    left: 55%;
+}
+#K6{
+    color: rgb(255, 255, 255);
+    font-size: 180;
+    font-weight: 500;
+    position: absolute;
+    top: 15%;
+    left: 60%;
+}
+.k7{
+    height: 700px;
+    width:400px;
+    background-color:  rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+#k71{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k72{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 140%;
+    font-weight: 500;
+}
+#k73{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 140%;
+    font-weight: 500;
+}
+.k74{
+    height: 17px;
+    width: 17px;
+    background-color:olive;
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k75{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 140%;
+    font-weight: 400;
+}
+.k8{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+#k81{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k82{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 140%;
+    font-weight: 500;
+}
+#k83{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 140%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k84{
+    height: 17px;
+    width: 17px;
+    background-color:brown;
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k85{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 140%;
+    font-weight: 400;
+}
+#k86{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 140%;
+    font-weight: 500;
+    
+}
+#k87{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 140%;
+    font-weight: 400;
+    
+}
+.k9{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 55%;
+}
+#k91{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k92{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 140%;
+    font-weight: 500;
+}
+#k93{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 140%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k94{
+    height: 17px;
+    width: 17px;
+    background-color:rgb(255, 227, 227);
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k95{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 140%;
+    font-weight: 400;
+}
+#k96{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 140%;
+    font-weight: 500;
+    
+}
+#k97{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 140%;
+    font-weight: 400;
+    
+}
+.k10{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 80%;
+}
+#k101{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k102{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 140%;
+    font-weight: 500;
+}
+#k103{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 140%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k104{
+    height: 17px;
+    width: 17px;
+    background-color:green;
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k105{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 140%;
+    font-weight: 400;
+}
+#k106{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 140%;
+    font-weight: 500;
+    
+}
+#k107{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 140%;
+    font-weight: 400;
+    
+}
+.k11{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 105%;
+}
+#k111{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k112{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 140%;
+    font-weight: 500;
+}
+#k113{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 140%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k114{
+    height: 17px;
+    width: 17px;
+    background-color:rgb(0, 0, 0);
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k115{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 140%;
+    font-weight: 400;
+}
+#k116{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 140%;
+    font-weight: 500;
+    
+}
+#k117{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 140%;
+    font-weight: 400;
+    
+}
+.k12{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 130%;
+}
+#k121{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k122{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 120%;
+    font-weight: 500;
+}
+#k123{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 120%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k124{
+    height: 17px;
+    width: 17px;
+    background-color:green;
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k125{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 120%;
+    font-weight: 400;
+}
+#k126{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 120%;
+    font-weight: 500;
+    
+}
+#k127{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 120%;
+    font-weight: 400;
+    
+}
+.k13{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 155%;
+}
+#k131{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k132{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 120%;
+    font-weight: 500;
+}
+#k133{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 120%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k134{
+    height: 17px;
+    width: 17px;
+    background-color:white;
+    border: solid rgb(255, 255, 255) 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k135{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 120%;
+    font-weight: 400;
+}
+#k136{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 120%;
+    font-weight: 500;
+    
+}
+#k137{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 120%;
+    font-weight: 400;
+    
+}
+.k14{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 155%;
+}
+#k141{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k142{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 120%;
+    font-weight: 500;
+}
+#k143{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 120%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k144{
+    height: 17px;
+    width: 17px;
+    background-color:rgb(2, 41, 2);
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k145{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 120%;
+    font-weight: 400;
+}
+#k146{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 120%;
+    font-weight: 500;
+    
+}
+#k147{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 120%;
+    font-weight: 400;
+    
+}
+.k15{
+    height: 700px;
+    width:400px;
+    background-color:rgb(16, 16, 68);
+    position: absolute;
+    top: 25%;
+    left: 155%;
+}
+#k151{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 83%;
+    font-size: 100%;
+    font-weight: 300;
+}
+#k152{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 86%;
+    font-size: 120%;
+    font-weight: 500;
+}
+#k153{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    font-size: 120%;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.k154{
+    height: 17px;
+    width: 17px;
+    background-color:rgb(0, 0, 0);
+    border: solid white 2px;
+    border-radius: 100%;
+    position: absolute;
+    top: 95%;
+    
+}
+#k155{
+    position: absolute;
+    color: rgb(255, 247, 247);
+    top: 93.5%;
+    left: 10%;
+    font-size: 120%;
+    font-weight: 400;
+}
+#k156{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 90%;
+    left: 25%;
+    font-size: 120%;
+    font-weight: 500;
+    
+}
+#k157{
+    position: absolute;
+    color: rgb(136, 14, 110);
+    top: 90%;
+    left: 45%;
+    font-size: 120%;
+    font-weight: 400;
+    
+}
+@media screen and (min-width:768px) and (max-width:998px){
+    .K{
+        height: 800px;
+        width: 100%;
+        background-color: rgb(16, 16, 68); 
+        position: relative;
+        overflow-x: scroll;
+     }
+     #K1{
+         color: rgb(211, 198, 11);
+         font-size: 180%;
+         position: sticky;
+         font-family: 'Times New Roman', Times, serif;
+         font-weight: 500;
+         text-align: center;
+     }
+     #K2{
+         color: rgb(255, 255, 255);
+         font-size: 180;
+         font-weight: 500;
+         position: absolute;
+         top: 15%;
+         left: 35%;
+         
+     
+     }
+     #K3{
+         color: rgb(255, 255, 255);
+         font-size: 180;
+         font-weight: 500;
+         position: absolute;
+         top: 15%;
+         left: 40%;
+     }
+     #K4{
+         color: rgb(255, 255, 255);
+         font-size: 180;
+         font-weight: 500;
+         position: absolute;
+         top: 15%;
+         left: 46%;
+     }
+     #K5{
+         color: rgb(255, 255, 255);
+         font-size: 180;
+         font-weight: 500;
+         position: absolute;
+         top: 15%;
+         left: 55%;
+     }
+     #K6{
+         color: rgb(255, 255, 255);
+         font-size: 180;
+         font-weight: 500;
+         position: absolute;
+         top: 15%;
+         left: 61%;
+     }
+     .k7{
+         height: 550px;
+         width:220px;
+         background-color:rgb(16, 16, 68);
+         position: absolute;
+         top: 25%;
+         left: 5%;
+     }
+     .k7 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k71{
+         position: absolute;
+         color: rgb(241, 238, 238);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k72{
+         position: absolute;
+         color: rgb(255, 248, 248);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k73{
+         position: absolute;
+         color: rgb(255, 242, 242);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k74{
+         height: 17px;
+         width: 17px;
+         background-color:olive;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k75{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     .k8{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 40%;
+    }
+     .k8 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k81{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k82{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k83{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k84{
+         height: 17px;
+         width: 17px;
+         background-color:brown;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k85{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k86{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k87{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k9{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 75%;
+    }
+     .k9 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k91{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k92{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k93{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k94{
+         height: 17px;
+         width: 17px;
+         background-color:white;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k95{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k96{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k97{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k10{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 110%;
+    }
+     .k10 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k101{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k102{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k103{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k104{
+         height: 17px;
+         width: 17px;
+         background-color:green;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k105{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k106{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k107{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k11{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 145%;
+    }
+     .k11 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k111{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k112{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k113{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k114{
+         height: 17px;
+         width: 17px;
+         background-color:olive;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k115{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k116{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k117{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k12{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 180%;
+    }
+     .k12 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k121{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k122{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k123{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k124{
+         height: 17px;
+         width: 17px;
+         background-color:green;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k125{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k126{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k127{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k13{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 215%;
+    }
+     .k13 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k131{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k132{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k133{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k134{
+         height: 17px;
+         width: 17px;
+         background-color:olive;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k135{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k136{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k137{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k14{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 250%;
+    }
+     .k14 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k141{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k142{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k143{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k144{
+         height: 17px;
+         width: 17px;
+         background-color:green;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k145{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k146{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k147{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
+    }
+    .k15{
+        height: 550px;
+        width:220px;
+        background-color: rgb(16, 16, 68);
+        position: absolute;
+        top: 25%;
+        left: 40%;
+    }
+     .k15 img{
+        height: 450px;
+        width: 220px;
+        object-fit: cover;
+     }
+     #k151{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 83%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k152{
+         position: absolute;
+         color: rgb(255, 245, 245);
+         top: 87%;
+         font-size: 80%;
+         font-weight: 400;
+     }
+     #k153{
+         position: absolute;
+         color: rgb(221, 221, 221);
+         top: 90%;
+         font-size: 100%;
+         font-weight: 400;
+     }
+     .k154{
+         height: 17px;
+         width: 17px;
+         background-color:olive;
+         border: solid white 2px;
+         border-radius: 100%;
+         position: absolute;
+         top: 95%;
+         
+     }
+     #k155{
+         position: absolute;
+         color: rgb(255, 255, 255);
+         top: 93.5%;
+         left: 10%;
+         font-size: 100%;
+         font-weight: 300;
+     }
+     #k156{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        top: 90%;
+        left: 25%;
+        font-size: 100%;
+        font-weight: 400;
+        
+    }
+    #k157{
+        position: absolute;
+        color: rgb(136, 14, 110);
+        top: 90%;
+        left: 50%;
+        font-size: 80%;
+        font-weight: 300;
+        
     }
 }
